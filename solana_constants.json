@@ -1,0 +1,5 @@
+{
+    "defaultPrioritizationFee": 500,
+    "sendSolPrioritizationMultiplier": 10,
+    "sendSplPrioritizationMultiplier": 5
+}
